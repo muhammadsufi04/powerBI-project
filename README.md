@@ -1,4 +1,4 @@
-----------------STORE-SALES-DASHBOARD-------------
+----------------STORE SALES DASHBOARD-------------
 
 OBJECCTIVE = to create interactive power bi dashboard to provive valuable to sales trends. 
 
